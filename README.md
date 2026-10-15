@@ -8,6 +8,6 @@
 
 **Status:** **Deprecated (2020–2021 era) — kept as an archive.** Signals: Python 3.8 kernels, `fastai.vision.all`, `np.math.*` (removed in NumPy 2), `from asyncio import coroutine`, bare `get_event_loop()`, `loop.add_reader`, and a `torch` loss-index hack tied to an old fastai version. This is preserved as an honest record of exploratory work, not as something to build on.
 
-**License:** No `LICENSE` file and no upstream project — the author's own unpublished scratch, so no third-party license obligations attach to the directory as a whole. Note one embedded exception: `spark.ipynb` pastes the Apache Spark project's own README (Apache-2.0 boilerplate, badge links and all) into a markdown cell; that text is Apache-2.0 content and should be stripped before any public snapshot.
+**License:** See `LICENSE` for this repository's AGPL-3.0 license. The embedded Apache Spark README in `spark.ipynb` is third-party Apache-2.0 content; review its attribution and redistribution terms before publishing a derivative.
 
 ---
